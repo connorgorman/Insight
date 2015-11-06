@@ -1,0 +1,2 @@
+{"created_at":"Fri Oct 30 15:29:44 +0000 2015","text":"test1 #a #b","entities":{"hashtags":[{"text":"a","indices":[56,62]},{"text":"b","indices":[63,72]}]}
+{"created_at":"Fri Oct 30 15:29:44 +0000 2015","text":"test1 #a #b","entities":{"hashtags":[{"text":"a","indices":[56,62]},{"text":"c","indices":[63,72]}]}
